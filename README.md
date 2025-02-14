@@ -4,7 +4,7 @@ Welcome to my Neovim configuration! This setup is designed to enhance productivi
 
 ## Installation
 
-To get started, clone this repository into your Neovim configuration directory: normally~/.config/nvim
+To get started, clone this repository into your Neovim configuration directory: normally    ~/.config/nvim
 
 ## Features
 
